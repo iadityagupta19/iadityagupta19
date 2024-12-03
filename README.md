@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with a keen interest in full-stack development, algorithms, and data structures. Here’s a bit about me:</h3>
 
 
-- 🔭 I’m currently working as SDE Intern **@Practo**
+- 🔭 I’m currently working as SDE **@Practo**
 
 - 👯 Ex Full Stack Developer Intern **@Geta Ai Labs**
 
