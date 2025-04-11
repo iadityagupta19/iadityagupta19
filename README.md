@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with a keen interest in full-stack development, algorithms, and data structures. Here’s a bit about me:</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Backend development, algorithms, and data structures. Here’s a bit about me:</h3>
 
 
-- 🔭 I’m currently working as SDE **@Practo**
+- 🔭 I’m currently working as Software Engineer **@Practo**
 
 - 👯 Ex Full Stack Developer Intern **@Geta Ai Labs**
 
