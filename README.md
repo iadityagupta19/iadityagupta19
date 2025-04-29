@@ -6,11 +6,9 @@
 
 - 👯 Ex Full Stack Developer Intern **@Geta Ai Labs**
 
-- 🎓 Education [National Institute of Technology, Jamshedpur](CGPA: 8.40)
+- 🎓 Education [National Institute of Technology, Jamshedpur]
 
 - 📫 How to reach me **iadityagupta19@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MT7UHJYFloFMekPlT94IozoTTS_rDk1E/view?usp=drivesdk](https://drive.google.com/file/d/1MT7UHJYFloFMekPlT94IozoTTS_rDk1E/view?usp=drivesdk)
 
 - ⚡ Fun fact **I know how to make things work**
 
